@@ -59,3 +59,6 @@
     },
   ]
 }
+
+#output
+{"data":"{\"rec_no\":[7,8,9,10,11,12]}","additionalData":{"processReqType":0,"dbUpdateFlag":true},"message":"DATA INSERTED, Total 6 rows are inserted, Added 0 columns as New Index Columns.","status":200}
