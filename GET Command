@@ -1,0 +1,16 @@
+{
+    "token": "90938100|-31949268788158014|90953144",
+    "cmd": "GET",
+    "dbName": "Colors",
+    "rel": "Color-Rel",
+  	"createTime": true,
+    "updateTime": true,
+    "jsonStr": {
+        "category": "value"
+    }
+
+}
+
+
+#output
+{"data":"{\"code\":{\"rgba\":[0,0,0,1],\"hex\":\"#FFF\"},\"color\":\"white\",\"category\":\"value\"}","message":"DATA RETRIEVED FROM PI","status":200}
