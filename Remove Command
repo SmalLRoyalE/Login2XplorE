@@ -1,0 +1,10 @@
+{
+    "token": "90938100|-31949268788158014|90953144",
+    "cmd": "REMOVE",
+    "dbName": "Colors",
+    "rel": "Color-Rel",
+    "record": 8
+}
+
+#output
+{"data":"{\"removedRecNos\":[8],\"alreadyRemovedRecNos\":[],\"invalidRecNos\":[]}","additionalData":{"processReqType":0,"dbUpdateFlag":true},"message":"Success","status":200}
