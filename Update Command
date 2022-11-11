@@ -1,0 +1,14 @@
+{
+    "token": "-1935843913|3223940520357615501|-1935843909",
+    "cmd": "UPDATE",
+    "dbName": "Colors",
+    "rel": "Color-Rel",
+    "jsonStr": {
+       "2":{
+        "type": "Primary",
+       }
+    }
+}
+
+#output
+{"data":"{\"2\":{\"type\":null},\"NewIndexColumnCreated\":0,\"NewNonIndexColumnCreated\":0}","additionalData":{"processReqType":0,"dbUpdateFlag":true},"message":"Success","status":200}
