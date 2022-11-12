@@ -1,4 +1,9 @@
-# Login2XplorE
+# Project - College Details
 
-#PUT command output
-![PUT](https://user-images.githubusercontent.com/75253788/201408678-0ad4dada-2f54-4c58-a856-8e31f9a5a984.png)
+# Info
+
+# Form
+![Form Structure](https://user-images.githubusercontent.com/75253788/201481324-deb60c46-4928-4a58-a6d6-3ae5cee78a34.png)
+
+# Output
+![Output](https://user-images.githubusercontent.com/75253788/201481333-1b99e3ba-d601-4360-8651-c9c62ee165fd.png)
