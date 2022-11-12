@@ -81,10 +81,9 @@
   ]
 }
 ```
-##### output
+#### output
 ```
 {"data":"{\"rec_no\":[7,8,9,10,11,12]}","additionalData":{"processReqType":0,"dbUpdateFlag":true},"message":"DATA INSERTED, Total 6 rows are inserted, Added 0 columns as New Index Columns.","status":200}
-
 ```
 ![PUT](https://user-images.githubusercontent.com/75253788/201490492-56d716f1-5753-4462-9c7c-c62fcf2a697d.png)
 
@@ -100,10 +99,9 @@
     "jsonStr": {
         "category": "value"
     }
-
 }
 ```
-##### output
+#### output
 ```
 {"data":"{\"code\":{\"rgba\":[0,0,0,1],\"hex\":\"#FFF\"},\"color\":\"white\",\"category\":\"value\"}","message":"DATA RETRIEVED FROM PI","status":200}
 ```
@@ -120,7 +118,7 @@
     }
 }
 ```
-##### output
+#### output
 ```
 {"data":"{\"2\":{\"type\":null},\"NewIndexColumnCreated\":0,\"NewNonIndexColumnCreated\":0}","additionalData":{"processReqType":0,"dbUpdateFlag":true},"message":"Success","status":200}
 ```
@@ -135,7 +133,7 @@
     "record": 8
 }
 ```
-##### output
+#### output
 ```
 {"data":"{\"removedRecNos\":[8],\"alreadyRemovedRecNos\":[],\"invalidRecNos\":[]}","additionalData":{"processReqType":0,"dbUpdateFlag":true},"message":"Success","status":200}
 ```
@@ -144,9 +142,9 @@
 ##### Remove After
 ![Remove after](https://user-images.githubusercontent.com/75253788/201490762-dd0341ab-9d46-4dea-9090-deab96a0e80c.png)
 
-# Project
-## Form
+## Project
+#### Form
 ![Form Structure](https://user-images.githubusercontent.com/75253788/201481324-deb60c46-4928-4a58-a6d6-3ae5cee78a34.png)
 
-## Output
+#### Output
 ![Output](https://user-images.githubusercontent.com/75253788/201481333-1b99e3ba-d601-4360-8651-c9c62ee165fd.png)
